@@ -2,7 +2,7 @@ Lets see the How to Download the Dataset:
 
 Because of the Storage problem into the Github I cant upload the Dataset CSV File into this file
 
-Direct Dole.com/datasets/kartik2112/fraud-detectionwnload link of the dataset:- https://www.kagg
+Direct Dole.com/datasets/kartik2112/fraud-detectionwnload link of the dataset:- [https://www.kagg](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 
 💳 Credit Card Fraud Detection using KNN & Decision Tree
